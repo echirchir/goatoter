@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="@style/Theme.AppCompat">
+        <!-- Set AppCompat’s color theming attrs -->
+        <item name="colorPrimary">#fe5621</item>
+        <item name="colorPrimaryDark">#fe9700</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+</resources>

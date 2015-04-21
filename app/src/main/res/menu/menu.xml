@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".GoaToterActivity">
+
+    <item android:id="@+id/action_upload"
+        android:title="@string/action_upload"
+        android:icon="@drawable/upload"
+        app:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+
+    <item android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/refresh"
+        app:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+
+    <item android:id="@+id/action_share"
+        android:title="@string/action_share"
+        android:icon="@drawable/share"
+        app:showAsAction="ifRoom"
+        tools:ignore="AppCompatResource" />
+</menu>
